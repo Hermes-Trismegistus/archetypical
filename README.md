@@ -1,4 +1,4 @@
-archetypical
+Archetypical
 ============
 
 Archetypical is codeigniter(https://ellislab.com/codeigniter) project that's gonna be a simple and basic Astrology program for calculating Astrological Birth charts. 
