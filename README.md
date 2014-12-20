@@ -1,7 +1,7 @@
 Archetypical
 ============
 
-Archetypical is codeigniter(https://ellislab.com/codeigniter) project that's gonna be a simple and basic Astrology program for calculating Astrological Birth charts in a web browser. 
+Archetypical is codeigniter(https://ellislab.com/codeigniter) project that's gonna be a simple and basic Astrology program for calculating Astrological Birth charts inside a web browser. In the future it's gonna have options to also calculate transits, progression, solar horoscopes etc. 
 
 It uses PHP-SWEPH and the swissephemeris, which both can be found on https://code.google.com/p/php-sweph/ and http://astro.com
 
